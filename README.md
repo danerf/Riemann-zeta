@@ -1,5 +1,4 @@
-# Riemann-zeta
-Computations and visualizations of the Riemann zeta function using python and sage.
+# Riemann-zeta function
 
 This code (Plot_Riemann_Zeta_Critical_Line.py) generates a plot (Z(t)_Plot.png) comparing the modulus of the
 Riemann zeta function (Sum of 1/n^s for n=0 to infinity) evaluated on the critical line (for complex numbers
