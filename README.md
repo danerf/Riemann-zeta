@@ -18,3 +18,5 @@ The code Siegel_Graph_Loop.py generates a list of plots starting at a given inpu
 
 The video was created using ffmpeg which you can install on ubuntu using the command "sudo apt-get install ffmpeg". The command line which was used to create the video is in the text file called "Make_mp4_from_png_files_ubuntu.txt". Notice it takes any .png file starting with "zeta_plot1_" and uses them to create an .mp4 file.
 
+For more information on the Riemann-Siegel Approximation, read "Computational methods for evaluating
+the Riemann zeta function" which can be found in this repository.
