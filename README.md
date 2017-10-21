@@ -20,3 +20,7 @@ The video was created using ffmpeg which you can install on ubuntu using the com
 
 For more information on the Riemann-Siegel Approximation, read "Computational methods for evaluating
 the Riemann zeta function" which can be found in this repository.
+
+For neat visualizations of the Riemann Zeta function using python, check out Christian S. Perone's article "Riemann Zeta function visualizations with Python". Here is a link...
+
+http://blog.christianperone.com/2010/02/riemann-zeta-function-visualizations-with-python/#comments
